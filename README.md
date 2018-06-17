@@ -9,6 +9,7 @@ Server files for handling a login via the original Toontown Online launcher.
 ## Instructions:
 * Create a file in your Toontown Launcher directory named "parameters.txt"
 * Inside of the text document, add the following line:
+* Put the start-game.bat in the root of your TestTown 2012 client.
 
 ```
 PATCHER_BASE_URL=http://yourwebsitehere.com/launcher/current
